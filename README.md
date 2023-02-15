@@ -8,7 +8,7 @@ I'm a promising and purposeful guy from the glorious city of Togliatti 😎
 - 🚫Hate — Wash dishes, Synthetic clothing, Excessive loneliness
 
 ## Contacts
-[![Telegram](https://github.com/BlagoTema/Artem-Mint-Profile/blob/main/telegram-icon.png?raw=true)](https://t.me/artem_mint)  ᅠ [![VK](https://github.com/BlagoTema/Artem-Mint-Profile/blob/main/vk-icon.png?raw=true)](https://vk.com/artem_ancel)     ᅠ  [![Discord Server](https://github.com/BlagoTema/Artem-Mint-Profile/blob/main/discord-icon.png?raw=true)](https://discord.gg/VKgDQSfTns)
+[![Telegram](https://github.com/BlagoTema/Artem-Mint-Profile/blob/main/telegram-icon.png?raw=true)](https://t.me/temamint)  ᅠ [![VK](https://github.com/BlagoTema/Artem-Mint-Profile/blob/main/vk-icon.png?raw=true)](https://vk.com/temamint)     ᅠ  [![Discord Server](https://github.com/BlagoTema/Artem-Mint-Profile/blob/main/discord-icon.png?raw=true)](https://discord.gg/VKgDQSfTns)
 
 ## Some stats ![](https://komarev.com/ghpvc/?username=BlagoTema)
 Hehe, everything is in private repositories. Such a thing =) 
