@@ -13,6 +13,6 @@ I'm a promising and purposeful guy from the glorious city of Togliatti 😎
 ## Some stats ![](https://komarev.com/ghpvc/?username=BlagoTema)
 Hehe, everything is in private repositories. Such a thing =) 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlagoTema&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temamint&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlagoTema)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=temamint)](https://git.io/streak-stats)
